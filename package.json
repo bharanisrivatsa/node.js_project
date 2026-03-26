@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-node",
+  "version": "1.0.0",
+  "description": "Simple Hello World Node.js application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello-world",
+    "node.js"
+  ],
+  "author": "",
+  "license": "ISC"
+}
